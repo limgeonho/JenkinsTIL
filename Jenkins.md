@@ -48,7 +48,7 @@
 
 6. PUTTY 설정 후 Open
 
-   ![17](https://user-images.githubusercontent.com/73927750/150160268-3847b3e8-347f-444f-b730-4377c6b2cd78.png)
+   ![17](https://user-images.githubusercontent.com/73927750/150244255-192bd0df-90f3-469d-bc8d-098b271bcb0b.png)
 
    ![4](https://user-images.githubusercontent.com/73927750/150160376-d7cc6880-a207-4da5-9131-42330a3c868c.png)
 
@@ -196,4 +196,3 @@
     - 해당 build history도 확인가능
 
       ![16](https://user-images.githubusercontent.com/73927750/150161944-b57b9aeb-8800-4d7e-ba96-36142020a9c0.png)
-      
